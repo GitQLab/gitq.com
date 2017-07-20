@@ -4,6 +4,9 @@
   <h3 align="center">gitq.com</h3>
 </p>
 
-Welcome! GitQ is a place to ask questions, share knowledge, build communities for GitHub projects.
+<p align="center">
+  A place to ask questions, share knowledge and build communities.
+</p>
+
 
 
